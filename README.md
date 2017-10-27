@@ -18,6 +18,11 @@ https://github.com/PHPFluent/Cache
 
 https://github.com/gilbitron/PHP-SimpleCache
 
+### JSON WEB TOKEN (JWT) :
+https://github.com/nov/jose-php
+https://github.com/Spomky-Labs/jose
+https://github.com/firebase/php-jwt
+
 ###  Sistem Routing
 https://github.com/nezamy/route
 
