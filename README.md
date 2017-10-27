@@ -1,6 +1,6 @@
 # Awesome PHP Library
-[![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/k4m4)
-[![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/k4m4/movies-for-hackers/stargazers)
+[![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/isfaaghyth)
+[![GitHub stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers.svg)](https://github.com/isfaaghyth/awesome-php-library/stargazers)
 
 ### Database
 https://github.com/hilmanrdn/pirlo-db
