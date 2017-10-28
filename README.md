@@ -7,6 +7,8 @@ https://github.com/hilmanrdn/pirlo-db
 
 https://github.com/illuminate/database
 
+https://github.com/vrana/notorm
+
 ### Pagination
 https://github.com/daveismyname/pagination
 
@@ -34,6 +36,23 @@ https://github.com/nezamy/route
 https://github.com/iamcal/php-emoji
 
 https://github.com/dionarya6661/dap_emot
+
+### Security
+https://github.com/paragonie/halite
+
+### Scraping
+https://github.com/FriendsOfPHP/Goutte
+
+https://github.com/oscarotero/Embed
+
+### Debugging
+https://github.com/maximebf/php-debugbar
+
+https://github.com/xdebug/xdebug
+
+### Date and Time
+https://github.com/briannesbitt/Carbon
+
 
 # Contributing!
 Your contributions are always welcome! 
