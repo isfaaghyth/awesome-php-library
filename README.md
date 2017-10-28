@@ -40,15 +40,15 @@ https://github.com/dionarya6661/dap_emot
 ### Security
 https://github.com/paragonie/halite
 
-### Scraping
-https://github.com/FriendsOfPHP/Goutte
-
-https://github.com/oscarotero/Embed
-
 ### Debugging
 https://github.com/maximebf/php-debugbar
 
 https://github.com/xdebug/xdebug
+
+### Scraping
+https://github.com/FriendsOfPHP/Goutte
+
+https://github.com/oscarotero/Embed
 
 ### Date and Time
 https://github.com/briannesbitt/Carbon
